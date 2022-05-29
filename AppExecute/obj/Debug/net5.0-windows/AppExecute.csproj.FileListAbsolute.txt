@@ -1,0 +1,60 @@
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.exe
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.deps.json
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.runtimeconfig.json
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.runtimeconfig.dev.json
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.dll
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\ref\AppExecute.dll
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.pdb
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csprojAssemblyReference.cache
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.FrmExecute.resources
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.GenerateResource.cache
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.GeneratedMSBuildEditorConfig.editorconfig
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.AssemblyInfoInputs.cache
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.AssemblyInfo.cs
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.CoreCompileInputs.cache
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.dll
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\ref\AppExecute.dll
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.pdb
+E:\FST\LCSII TP 2022\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.genruntimeconfig.cache
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.exe
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.deps.json
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.runtimeconfig.json
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.runtimeconfig.dev.json
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.dll
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.pdb
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.AssemblyReference.cache
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.FrmExecute.resources
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.GenerateResource.cache
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.AssemblyInfoInputs.cache
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.AssemblyInfo.cs
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.CoreCompileInputs.cache
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.CopyComplete
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.dll
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\refint\AppExecute.dll
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.pdb
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.genruntimeconfig.cache
+C:\Users\Naaark\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\ref\AppExecute.dll
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.exe
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.deps.json
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.runtimeconfig.json
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.runtimeconfig.dev.json
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.dll
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\AppExecute.pdb
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\hiall\Desktop\TP1-04\AppExecute\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.AssemblyReference.cache
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.FrmExecute.resources
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.GenerateResource.cache
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.AssemblyInfoInputs.cache
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.AssemblyInfo.cs
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.CoreCompileInputs.cache
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.csproj.CopyComplete
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.dll
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\refint\AppExecute.dll
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.pdb
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\AppExecute.genruntimeconfig.cache
+C:\Users\hiall\Desktop\TP1-04\AppExecute\obj\Debug\net5.0-windows\ref\AppExecute.dll
